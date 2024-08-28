@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # baserepo
 Base repo
 =======
